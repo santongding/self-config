@@ -82,3 +82,8 @@ inoremap <Right> <ESC>:echoe "Use l"<CR>
 inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
 inoremap jj <C-[>
+inoremap aaa <ESC>$a
+inoremap ooo <ESC>o
+inoremap uuu <ESC>ui
+inoremap UUU <ESC><C-r>i
+inoremap eee <ESC>ea
